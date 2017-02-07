@@ -1,0 +1,8 @@
+1.simple webservice which will read all students and format should be there 
+	format/csv/xml/html/json using query builder and segment.
+
+2.student by id using query builder and segment..
+
+3.get/post/put/delete
+
+http://localhost/webserviceapp/index.php/employee/employees/?id=10&format=xml
